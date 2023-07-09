@@ -18,4 +18,4 @@ In my learning project, I focused on data cleaning and creating a dashboard for 
 
 This project improved my skills in data cleaning, manipulation, and visualization, enabling me to effectively communicate data-driven insights through interactive visualizations.
 
-Excel file [here](bike_sales_dashboard.xlsx)
+Excel file [here](https://github.com/IrinaShafeeva/bike_sales_dashboard/blob/main/bike_sales_dashboard%20(1).xlsx)
